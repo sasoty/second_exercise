@@ -1,0 +1,1 @@
+cmd_/home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.mod := printf '%s\n'   exercise_kernel.o | awk '!x[$$0]++ { print("/home/sus/new_folder/test_pratice/linux_driver/"$$0) }' > /home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.mod

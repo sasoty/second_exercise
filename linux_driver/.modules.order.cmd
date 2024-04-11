@@ -1,0 +1,1 @@
+cmd_/home/sus/new_folder/test_pratice/linux_driver/modules.order := {   echo /home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.ko; :; } | awk '!x[$$0]++' - > /home/sus/new_folder/test_pratice/linux_driver/modules.order

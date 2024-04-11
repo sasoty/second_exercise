@@ -1,0 +1,1 @@
+cmd_/home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.ko /home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.o /home/sus/new_folder/test_pratice/linux_driver/exercise_kernel.mod.o;  true
